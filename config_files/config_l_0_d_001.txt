@@ -1,0 +1,24 @@
+# Configuration file to simplify the z function calculation
+# use the format (without the #):
+#folder (name of folder)/
+#cube num (number)
+#l (number)
+#m (number)
+#dx (number)
+#dy (number)
+#dz (number)
+#x2max (number)
+#points (number)
+
+folder felipe_results/
+cube num 20
+sd 2017-06-21
+L 10
+l 0
+m 0
+dx 0
+dy 0
+dz 1
+x2min 0
+x2max 5
+points 500

@@ -1,0 +1,25 @@
+# Configuration file to simplify the fz function calculation
+# use the format (without the #):
+#folder (name of folder)/
+#cube num (number)
+#L 10 (number)
+#l (number) 
+#m (number)
+#dx (number)
+#dy (number)
+#dz (number)
+#x2min (number)
+#x2max (number)
+#points (number)
+
+folder scratch/
+cube num 3
+L 10
+l 0
+m 0
+dx 0
+dy 0
+dz 0
+x2min 0
+x2max 5
+points 5
